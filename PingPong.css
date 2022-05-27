@@ -1,0 +1,23 @@
+*{
+    margin:0;
+    background-color: #797979;
+}
+canvas { 
+    margin-top:4em;
+    margin-left:5em;
+    background: #F3F3F3;
+}
+
+.footer {
+  height: 50px;
+  background-color: var(--main-bg-color);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: light-grey;
+  flex-direction: column;
+}
+
+.footer a {
+  color: light-grey;
+  }
